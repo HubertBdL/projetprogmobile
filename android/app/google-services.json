@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "94800110333",
+    "project_id": "projet-programmation-mobile",
+    "storage_bucket": "projet-programmation-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94800110333:android:59e0ec4a150efeea5c5494",
+        "android_client_info": {
+          "package_name": "com.example.projetprogmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94800110333-159fglk59m0vppa9gbedsaqfn7vmpbfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaEonZYu-ITM8f1Ac44khKBbDDonirOfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94800110333-159fglk59m0vppa9gbedsaqfn7vmpbfc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "94800110333-07qsmedjhadlsufs9b54cb69g12tge1r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projetflutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
